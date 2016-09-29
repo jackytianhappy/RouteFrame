@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = [UIColor purpleColor];
+    
+    self.title = @"首页";
 }
 
 - (void)didReceiveMemoryWarning {
